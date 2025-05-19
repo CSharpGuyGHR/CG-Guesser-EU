@@ -1,6 +1,6 @@
 # **CG Roblox Gift Card Guesser**
 
-# **!!! NOTE: RUNNING MAY REQUIRE TO TURN OFF ANTIVIRUS/REAL TIME PROTECTION ON DEFENDER SETTINGS AS THE PROGRAM SENDS HTTP REQUESTS TO "https://roblox.com/redeem/code?="**
+# **!!! NOTE: RUNNING MAY REQUIRE TO TURN OFF ANTIVIRUS/REAL TIME PROTECTION ON DEFENDER SETTINGS AS THE PROGRAM SENDS HTTP REQUESTS TO "https://roblox.com/redeem?code="**
 
 Roblox Gift Card Guesser is a lightweight command-line tool that generates Roblox gift card codes based on popular formatting patterns. Designed for educational purposes only.
 Features:
